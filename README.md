@@ -42,4 +42,4 @@ This is a News Application developed using Kotlin in Android Studio. It allows u
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/anshux2211/News-App
+   git clone https://github.com/Deepakkrpandey/News-Application
